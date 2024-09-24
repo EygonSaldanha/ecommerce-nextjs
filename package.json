@@ -10,9 +10,10 @@
   },
   "dependencies": {
     "@rive-app/react-canvas": "^4.13.8",
-    "axios": "^1.7.6",
+    "axios": "^1.7.7",
     "lucide-react": "^0.288.0",
     "next": "^14.2.8",
+    "pg": "^8.13.0",
     "react": "^18",
     "react-dom": "^18",
     "react-hook-form": "^7.53.0",
@@ -21,6 +22,7 @@
   "devDependencies": {
     "@rocketseat/eslint-config": "^2.2.2",
     "@types/node": "^20",
+    "@types/pg": "^8.11.10",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10",
